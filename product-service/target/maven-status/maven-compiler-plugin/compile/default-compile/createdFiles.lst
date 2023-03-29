@@ -1,0 +1,10 @@
+com\waaniyeservice\controller\ProductController.class
+com\waaniyeservice\dto\ProductResponse$ProductResponseBuilder.class
+com\waaniyeservice\dto\ProductRequest.class
+com\waaniyeservice\repository\ProductRepo.class
+com\waaniyeservice\model\Product.class
+com\waaniyeservice\service\ProductService.class
+com\waaniyeservice\WaaniyeApplication.class
+com\waaniyeservice\dto\ProductRequest$ProductRequestBuilder.class
+com\waaniyeservice\dto\ProductResponse.class
+com\waaniyeservice\model\Product$ProductBuilder.class
